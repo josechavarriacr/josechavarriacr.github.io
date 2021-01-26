@@ -15,4 +15,3 @@ Skills: Nodejs/ Expressjs/Sequelize and PostgreSQL/Mongoose and MongoDB
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=josechavarriacr&show_icons=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josechavarriacr&count_private=true)
-
